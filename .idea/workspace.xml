@@ -123,6 +123,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="36ec47ac-e6f9-4516-ad82-ff05b1264f32" name="Default" comment="" />
@@ -134,7 +137,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="204" y="243" width="1873" height="1096" extended-state="0" />
+    <frame x="204" y="243" width="1873" height="1096" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
